@@ -5,7 +5,7 @@
 #-- by: @cryptobr - on Telegram ------------#
 #-------------------------------------------#
 
-# Cear Terminal
+# Clear Terminal
 clear
 
 # Input dates
