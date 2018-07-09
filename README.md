@@ -1,1 +1,3 @@
-script man in the middle
+# Script man in the middle
+
+Just run on gnome interface !
